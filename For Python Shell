@@ -1,0 +1,3 @@
+# To search pixels:
+import pyautogui
+pyautogui.displayMousePosition()
